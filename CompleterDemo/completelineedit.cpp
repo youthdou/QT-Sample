@@ -24,10 +24,10 @@ void CompleteLineEdit::focusOutEvent(QFocusEvent *e)
     m_pListView->hide();
 }
 
-void CompleteLineEdit::moveEvent(QMoveEvent *e)
-{
-    qDebug() << "[" << __FUNCTION__ << "]";
-}
+//void CompleteLineEdit::moveEvent(QMoveEvent *e)
+//{
+//    qDebug() << "[" << __FUNCTION__ << "]";
+//}
 
 void CompleteLineEdit::keyPressEvent(QKeyEvent *e)
 {
