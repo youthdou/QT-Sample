@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>function.js</file>
+    </qresource>
+</RCC>
