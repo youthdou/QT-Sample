@@ -1,0 +1,1 @@
+## keys[metadata](https://stackoverflow.com/questions/23034047/reading-own-metadata-within-a-qt-plugin-class)
